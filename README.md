@@ -21,6 +21,4 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreiraJFL&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JhonataFerreiraJFL/github-readme-stats)
 
-![Snake animation](https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL/blob/output/github-contribution-grid-snake.svg)
-
-![readme](https://github-readme-stats.vercel.app/api/pin/?username=JhonataFerreiraJFL&repo=JhonataFerreiraJFL&theme=react)](https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL)
+![snake gif](https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL/blob/output/github-contribution-grid-snake.svg)
