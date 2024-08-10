@@ -21,18 +21,17 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreiraJFL&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JhonataFerreiraJFL/github-readme-stats)
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+ ### Leetcode
+  <div align="center">
+
+  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
+
+  </div>
+
+  ### Codeforces
+  <div align="center">
+
+  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JhonataFerreiraJFL)
+
+  </div>
 
