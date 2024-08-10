@@ -21,4 +21,4 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreiraJFL\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/JhonataFerreiraJFL/github-readme-stats)
 
-![Snake animation](https://github.com/JhonataFerreiraJFL/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JhonataFerreiraJFL/JhonataFerreiraJFL/blob/output/github-contribution-grid-snake.svg)
