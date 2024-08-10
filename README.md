@@ -21,17 +21,4 @@
 #
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonataFerreiraJFL&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JhonataFerreiraJFL/github-readme-stats)
 
- ### Leetcode
-  <div align="center">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/YourUsername?theme=auto&font=baloo&extension=null)
-
-  </div>
-
-  ### Codeforces
-  <div align="center">
-
-  ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=JhonataFerreiraJFL)
-
-  </div>
 
